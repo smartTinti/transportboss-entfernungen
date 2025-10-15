@@ -1,0 +1,92 @@
+{
+  "Berlin": {
+    "Dresden": 193,
+    "Hamburg": 289,
+    "Hannover": 286,
+    "Köln": 574,
+    "Leipzig": 191,
+    "München": 585,
+    "Nürnberg": 437,
+    "Osnabrück": 424
+  },
+  "Dresden": {
+    "Berlin": 193,
+    "Hamburg": 476,
+    "Hannover": 413,
+    "Köln": 577,
+    "Leipzig": 122,
+    "München": 460,
+    "Nürnberg": 329,
+    "Osnabrück": 500
+  },
+  "Hamburg": {
+    "Berlin": 289,
+    "Dresden": 476,
+    "Hannover": 153,
+    "Köln": 424,
+    "Leipzig": 382,
+    "München": 777,
+    "Nürnberg": 613,
+    "Osnabrück": 220
+  },
+  "Hannover": {
+    "Berlin": 286,
+    "Dresden": 413,
+    "Hamburg": 153,
+    "Köln": 294,
+    "Leipzig": 278,
+    "München": 577,
+    "Nürnberg": 422,
+    "Osnabrück": 115
+  },
+  "Köln": {
+    "Berlin": 574,
+    "Dresden": 577,
+    "Hamburg": 424,
+    "Hannover": 294,
+    "Leipzig": 498,
+    "München": 581,
+    "Nürnberg": 447,
+    "Osnabrück": 210
+  },
+  "Leipzig": {
+    "Berlin": 191,
+    "Dresden": 122,
+    "Hamburg": 382,
+    "Hannover": 278,
+    "Köln": 498,
+    "München": 430,
+    "Nürnberg": 287,
+    "Osnabrück": 412
+  },
+  "München": {
+    "Berlin": 585,
+    "Dresden": 460,
+    "Hamburg": 777,
+    "Hannover": 577,
+    "Köln": 581,
+    "Leipzig": 430,
+    "Nürnberg": 169,
+    "Osnabrück": 612
+  },
+  "Nürnberg": {
+    "Berlin": 437,
+    "Dresden": 329,
+    "Hamburg": 613,
+    "Hannover": 422,
+    "Köln": 447,
+    "Leipzig": 287,
+    "München": 169,
+    "Osnabrück": 481
+  },
+  "Osnabrück": {
+    "Berlin": 424,
+    "Dresden": 500,
+    "Hamburg": 220,
+    "Hannover": 115,
+    "Köln": 210,
+    "Leipzig": 412,
+    "München": 612,
+    "Nürnberg": 481
+  }
+}
